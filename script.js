@@ -1,1 +1,4 @@
-/* teste Desenvolva seu código abaixo */
+function playRockPaperScissor(player1,player2){
+    
+    
+}
